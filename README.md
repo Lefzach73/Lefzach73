@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/Lefzach73/Lefzach73/main/assets/portrait.webp" alt="Eleftherios Zacharioudakis" width="144" height="180">
-
 # Eleftherios Zacharioudakis, PhD
 
 **Cybersecurity · Cryptography · Dependable computing**
