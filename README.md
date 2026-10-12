@@ -17,8 +17,8 @@ These projects connect research themes with reproducible implementations and exp
 | Project | Focus | What to explore |
 | :--- | :--- | :--- |
 | **[FaultGraph Lab](https://github.com/Lefzach73/faultgraph)** | Graph-logical fault tolerance and reliability | Published-model reproduction, independent truth oracles and exact finite checks for optimized representations. |
-| **VeriSOC Research** | Evidence verification for security triage | Traceable observations, bounded investigation, claim checking and PostgreSQL tenant isolation. |
-| **ProofMesh Research** | Workload identity and federated trust | Deterministic authorization policies, trust-bundle rotation, SPIFFE/SPIRE integration and explicit uncertainty. |
+| **[VeriSOC](https://github.com/Lefzach73/verisoc)** | Evidence verification for security triage | Traceable observations, bounded investigation, claim checking and PostgreSQL tenant isolation. |
+| **[ProofMesh](https://github.com/Lefzach73/proofmesh)** | Workload identity and federated trust | Deterministic authorization policies, trust-bundle rotation, formal models and optional SPIFFE integration. |
 
 Each repository documents its assumptions, implementation status and limitations. Research prototypes and controlled experiments are distinguished from production deployment, independent scientific validation and claims of novelty. Original coauthorship and AI-assisted implementation are disclosed in the project documentation.
 
