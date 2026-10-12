@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/Lefzach73/Lefzach73/main/assets/portrait.webp" alt="Eleftherios Zacharioudakis" width="144" height="180">
+
 # Eleftherios Zacharioudakis, PhD
 
 **Cybersecurity · Cryptography · Dependable computing**
@@ -14,7 +16,7 @@ These projects connect research themes with reproducible implementations and exp
 
 | Project | Focus | What to explore |
 | :--- | :--- | :--- |
-| **FaultGraph Lab** | Graph-logical fault tolerance and reliability | Published-model reproduction, independent truth oracles and exact finite checks for optimized representations. |
+| **[FaultGraph Lab](https://github.com/Lefzach73/faultgraph)** | Graph-logical fault tolerance and reliability | Published-model reproduction, independent truth oracles and exact finite checks for optimized representations. |
 | **VeriSOC Research** | Evidence verification for security triage | Traceable observations, bounded investigation, claim checking and PostgreSQL tenant isolation. |
 | **ProofMesh Research** | Workload identity and federated trust | Deterministic authorization policies, trust-bundle rotation, SPIFFE/SPIRE integration and explicit uncertainty. |
 
